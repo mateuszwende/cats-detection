@@ -123,7 +123,7 @@ tensorflow-estimator==2.1.0
 termcolor==1.1.0
 tinycss==0.3
 typed-ast==1.4.1
-urllib3==1.25.7
+urllib3==1.26.5
 vboxapi==1.0
 virtualenv==20.0.18
 Werkzeug==1.0.1
